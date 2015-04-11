@@ -17,3 +17,4 @@ hist(data$Global_active_power, col="red", xlab = "Global Active Power (kilowatts
 
 # Close the PNG file device.
 dev.off()
+
